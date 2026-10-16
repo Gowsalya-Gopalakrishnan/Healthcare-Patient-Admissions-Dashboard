@@ -23,9 +23,6 @@ Power BI, DAX, Power Query
 - Billing amount
 - Average length of stay
 
-## Files
-- `Healthcare patient admissions analysis.pbix` – Power BI file (download and open with Power BI Desktop)
-- `images/` – dashboard screenshots
 
 ## Dataset
 Sample healthcare dataset.
