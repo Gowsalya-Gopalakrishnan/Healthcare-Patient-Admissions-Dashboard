@@ -13,12 +13,12 @@ Power BI, DAX, Power Query
 - Used KPI cards and drill-down visuals to analyze admission trends and billing patterns
 
 ## Dashboard Preview
-![Page 1](billing details.png)
-![Page 2](clinical analysis.png)
-![Page 3](discharge analysis.png)
-![Page 4](hospital&patient insights.png)
-![Page 5](patient analysis.png)
-![Page 6](time analysis.png)
+![Page 1](billing-details.png)
+![Page 2](clinical-analysis.png)
+![Page 3](discharge-analysis.png)
+![Page 4](hospital-patientinsights.png)
+![Page 5](patient-analysis.png)
+![Page 6](time-analysis.png)
 
 ## Key Metrics Tracked
 - Total admissions
